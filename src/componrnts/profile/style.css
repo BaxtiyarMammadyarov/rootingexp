@@ -1,0 +1,8 @@
+*{
+    box-sizing: border-box;
+}
+.profile{
+    margin: 3px;
+    padding:2px;
+    border: 1px solid black;
+}
